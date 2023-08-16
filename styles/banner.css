@@ -30,6 +30,6 @@
     font-size: 14px;
     text-align: center;
     color: var(--branco);
-    background: url(Imgs/Lupa.svg) no-repeat;
+    background: url(../Imgs/Lupa.svg) no-repeat;
     background-position: 1em;
 }
